@@ -5,9 +5,18 @@ h3 {
     font-size: 40px;
 }
 
-div {
+.blog {
     border: 5px solid tomato;
     border-radius: 20px;
     padding: 10px;
     margin: 20px;
+}
+
+img {
+    width: 700px;
+}
+
+.img {
+
+    text-align: center;
 }
