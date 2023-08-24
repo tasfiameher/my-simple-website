@@ -1,0 +1,13 @@
+h3 {
+    text-align: center;
+    color: purple;
+    font-weight: 600;
+    font-size: 40px;
+}
+
+div {
+    border: 5px solid tomato;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 20px;
+}
